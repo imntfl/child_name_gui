@@ -1,5 +1,5 @@
 __author__ = 'Razbicky_Dmitry'
-# Посвещаеться Юлии Дудникова(Разбицкой) 01-07-2021
+# Посвещаеться Юлии Дудниковой(Разбицкой) 01-07-2021
 
 from bs4 import BeautifulSoup
 import requests as req
