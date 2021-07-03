@@ -1,6 +1,3 @@
-__author__ = 'Razbicky_Dmitry'
-# Посвещаеться Юлии Дудниковой(Разбицкой) 01-07-2021
-
 from bs4 import BeautifulSoup
 import requests as req
 import random
