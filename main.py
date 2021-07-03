@@ -3,7 +3,6 @@ import requests as req
 import random
 import tkinter as tk
 
-
 url = 'https://my-calend.ru/names/russian'
 page = req.get(url)
 soup = BeautifulSoup(page.text, 'lxml')
@@ -30,7 +29,7 @@ def clicked():
 
 if __name__ == "__main__":
     a = App()
-    a.title('Программа:  Имена ваших детей v1.0')
+    a.title('Программа:  Генератор имен v1.0')
     a.geometry("400x250")
 
 a.mainloop()
