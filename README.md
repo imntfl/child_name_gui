@@ -2,6 +2,6 @@
 
 Установить предварительно библиотеки
 
-pip3 install BeautifulSoup4
-pip3 install requests
-pip3 install lxml
+pip3 install BeautifulSoup4 <br>
+pip3 install requests <br>
+pip3 install lxml <br>
